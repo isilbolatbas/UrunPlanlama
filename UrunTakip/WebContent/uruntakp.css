@@ -1,0 +1,25 @@
+body{
+    font: 12px tahoma
+    background: white;
+}
+.form1{
+    width: 610px;
+    height: 450px;
+    margin: 60px auto;
+    padding: 100px 0 0 40px;
+    
+}
+
+#buton{
+    width: 120px;
+    height: 30px;
+    border: 2px;
+    solid: #9d3a56;
+    background: #933;
+    border-radius: 3px;
+    color: aliceblue;
+}
+#buton:hover{
+    border-color: #9b4562;
+    background: #72273c;
+}

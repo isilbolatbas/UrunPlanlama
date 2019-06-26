@@ -1,0 +1,24 @@
+body{
+    font: 12px 
+    background: white;
+}
+.form2{
+    width: 610px;
+    height: 450px;
+    margin: 60px auto;
+    padding: 100px 0 0 40px;
+    
+}
+#buton2{
+    width: 120px;
+    height: 30px;
+    border: 2px;
+    solid: #9d3a56;
+    background: #933;
+    border-radius: 3px;
+   
+}
+#buton2:hover{
+    border-color: #9b4562;
+    background: #72273c;
+}

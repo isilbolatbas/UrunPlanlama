@@ -1,0 +1,63 @@
+header{
+    
+    background: black;
+    height: 60px;
+    
+}
+header ul li {
+    
+    float:left;
+    font-size: 15px;
+}
+header ul{
+    position: absolute;
+    left: 350px;
+    
+}
+header ul li a{
+    padding: 15px;
+    display:block;
+    color: whitesmoke;
+       
+}
+header ul li a:hover{
+    text-decoration: none;
+    
+}
+.genel{
+    width: 1300px;
+    margin: auto;
+    margin-top: 10px;
+   
+    
+}
+.ürünler{
+    height: 300px;
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+.ürün{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    margin: 14px 12px;
+    background: whitesmoke;
+   
+}
+.ürün h2{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.ürün:hover{
+    background: dodgerblue;
+    transition: all 0.5s;
+    
+    
+}

@@ -1,0 +1,44 @@
+
+body{
+    font: 12px tahoma
+    background: white;
+}
+.form4{
+    width: 610px;
+    height: 450px;
+    margin: 60px auto;
+    
+    
+}
+#buton5{
+    width: 120px;
+    height: 30px;
+    border: 2px;
+    solid: #9d3a56;
+    background: #933;
+    border-radius: 3px;
+    
+}
+#buton5:hover{
+    border-color: #9b4562;
+    background: #72273c;
+   
+}
+#buton6{
+    width: 120px;
+    height: 30px;
+    border: 2px;
+    solid: #9d3a56;
+    background: #933;
+    border-radius: 3px;
+    
+}
+#buton6:hover{
+    border-color: #9b4562;
+    background: #72273c;
+}
+
+.ortala {
+  margin-left: 35%;
+  margin-right:  35%;
+}
